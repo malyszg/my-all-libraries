@@ -1,0 +1,8 @@
+{
+  "name": "my-library",
+  "autoload": {
+    "psr-0" : {
+      "MyLibrary" : "src"
+    }
+  }
+}
