@@ -59,4 +59,14 @@ class MyRedisLibrary
     {
 
     }
+
+    public function test6()
+    {
+
+    }
+
+    public function test7()
+    {
+
+    }
 }
