@@ -49,4 +49,9 @@ class MyRedisLibrary
     {
 
     }
+
+    public function test4()
+    {
+
+    }
 }
