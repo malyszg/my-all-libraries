@@ -34,4 +34,9 @@ class MyRedisLibrary
     {
         return $this->redis->get($key);
     }
+
+    public function test()
+    {
+
+    }
 }
