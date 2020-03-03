@@ -6,7 +6,7 @@
  * Time: 19:44
  */
 
-namespace MyLibrary;
+namespace MyLibrary\Redis;
 
 
 class MyRedisLibrary

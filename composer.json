@@ -1,8 +1,8 @@
 {
-  "name": "my-library",
+  "name": "my-library/redis",
   "autoload": {
     "psr-0" : {
-      "MyLibrary" : "src"
+      "MyLibrary\\Redis" : "src"
     }
   }
 }
